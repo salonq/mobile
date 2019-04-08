@@ -1,0 +1,7 @@
+{
+  "name": "SalonQ",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
